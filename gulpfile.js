@@ -1,6 +1,6 @@
 var gulp = require('gulp');
 var psi = require('psi');
-var site = 'http://topgitapp.herokuapp.com';
+var site = 'https://nrvarun.github.io/udportfolio/';
 var key = '';
 
 // Please feel free to use the `nokey` option to try out PageSpeed
