@@ -42,6 +42,52 @@ footer {
 }
 footer span { float: right; font-style: italic; }
 
+.cam_be_like, .mob_dev, .pizza, .pizzeria, .unnamed, .profilepic{
+  background: url(sprites.png) no-repeat;
+}
+
+.cam_be_like{
+  background-position: -20px -21px ;
+  width: 100px;
+  height: 50px;
+}
+
+.mob_dev{
+  background-position: -22px -90px ;
+  width: 100px;
+  height: 61px;
+}
+
+.pizza{
+  background-position: -142px -7px ;
+  width: 58px;
+  height: 75px;
+}
+
+.pizzeria{
+  background-position: -18px -156px ;
+  width: 115px;
+  height: 86px;
+}
+
+.unnamed{
+  background-position: -20px -247px ;
+  width: 100px;
+  height: 62px;
+}
+
+.profilepic{
+  background-position: -21px -313px ;
+  width: 70px;
+  height: 70px;
+}
+
+
+
+
+
+
+
 /* Smartphones (portrait) */
 @media only screen and (max-width: 480px) {
   body { font-size: 12px;}
