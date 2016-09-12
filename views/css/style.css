@@ -49,3 +49,13 @@ form {
  .container {
   background-color: rgba(240, 60, 60, 0.8);
 }
+.pizza{
+  background: url('../../css/sprites.png') -142px -7px;
+  width: 58px;
+  height: 75px;
+}
+.pizzeria{
+  background: url('../../css/sprites.png') -18px -156px ;
+  width: 115px;
+  height: 86px;
+}
